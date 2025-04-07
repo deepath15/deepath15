@@ -56,17 +56,17 @@ Full Stack Developer
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/deepath-s-b1083626a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://deepath.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <!-- <a href="https://deepath.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=for-the-badge&logo=vercel&logoColor=black"/></a> -->
   <a href="mailto:deepath1506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/deepath1506/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://github.com/deepath15"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- <a href="https://github.com/deepath15"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+<!-- ### 🐍 GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepath15/deepath15/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepath15/deepath15/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/deepath15/deepath15/output/github-snake.svg" />
-</picture>
+</picture> -->
