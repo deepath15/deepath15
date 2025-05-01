@@ -42,7 +42,6 @@ Full Stack Developer
 - 📦 **Inventory Management System** – Smart stock tracking with low-stock alerts and visual dashboards  
 - 🌐 **Freelancing Platform** – Secure payments, AI job matching & real-time collaboration  
 - 💬 **Ease Bot** – A smart assistant for automating daily tasks and Q&A  
-- 🎨 **UI Experiments** – Ghibli-style interfaces with GSAP/Framer animations
 
 ---
 
