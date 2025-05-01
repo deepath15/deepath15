@@ -2,7 +2,7 @@
 
 Full Stack Developer  
 👨🏼‍💻 Freelancer & Open-Source Contributor  
-🎬 Passionate about UI animations & Ghibli-style art  
+🎬 Passionate about Full stack development  
 
 ---
 
